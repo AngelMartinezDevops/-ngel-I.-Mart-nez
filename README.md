@@ -8,21 +8,28 @@
 
 <p align="center">
   <a href="https://github.com/AngelMartinezDevops" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #333; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+    <button style="background-color: #333; color: white; padding: 10px 20px; border: none; border-radius: 8px; cursor: pointer;">
       GitHub
     </button>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/angelignaciomartinez/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0077b5; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+    <button style="background-color: #0077b5; color: white; padding: 10px 20px; border: none; border-radius: 8px; cursor: pointer;">
       LinkedIn
     </button>
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:angel200391@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #555; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+    <button style="background-color: #555; color: white; padding: 10px 20px; border: none; border-radius: 8px; cursor: pointer;">
       Email
     </button>
   </a>
 </p>
+
 
 ---
 
