@@ -1,14 +1,13 @@
-<h1 align="center">Mi Portafolio Profesional</h1>
+<h1 align="center">Ángel Ignacio Martínez</h1>
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Foto de perfil" width="150" height="150">
 </p>
 
 <p align="center">
-  <strong>Nombre:</strong> [Tu Nombre Aquí] <br>
-  <strong>Email:</strong> [tu-email@example.com] <br>
-  <strong>LinkedIn:</strong> [enlace-a-tu-perfil] <br>
-  <strong>GitHub:</strong> [enlace-a-tu-usuario] <br>
+  <strong>Nombre:</strong> Ángel Ignacio Martínez <br>
+  <strong>Email:</strong> angel <br>
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/angelignaciomartinez/ <br>
 </p>
 
 ---
