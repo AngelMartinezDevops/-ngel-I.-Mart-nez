@@ -7,9 +7,21 @@
 
 
 <p align="center">
-  <a href="https://github.com/AngelMartinezDevops" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/angelignaciomartinez/" target="_blank">LinkedIn</a> •
-  <a href="mailto:tu-email@example.com">Email</a>
+  <a href="https://github.com/AngelMartinezDevops" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #333; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+      GitHub
+    </button>
+  </a>
+  <a href="https://www.linkedin.com/in/angelignaciomartinez/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #0077b5; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+      LinkedIn
+    </button>
+  </a>
+  <a href="mailto:angel200391@gmail.com" style="text-decoration: none;">
+    <button style="background-color: #555; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer;">
+      Email
+    </button>
+  </a>
 </p>
 
 ---
