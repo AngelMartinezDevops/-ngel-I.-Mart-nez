@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Ángel Ignacio Martínez Martínez</h1>
 <p align="center">
-  <strong>DevOps Junior | Apasionado por la Automatización y la Nube</strong>
+  <strong>DevOps | Linux | Cloud</strong>
 </p>
 
 <p align="center">
