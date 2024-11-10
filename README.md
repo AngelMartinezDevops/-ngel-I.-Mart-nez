@@ -1,90 +1,77 @@
-<h1 align="center">Ángel Ignacio Martínez</h1>
-
+<h1 align="center">👨‍💻 Ángel Ignacio Martínez Martínez</h1>
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Foto de perfil" width="150" height="150">
+  <strong>DevOps Junior | Apasionado por la Automatización y la Nube</strong>
 </p>
 
 <p align="center">
-  <strong>Nombre:</strong> Ángel Ignacio Martínez <br>
-  <strong>Email:</strong> angel <br>
-  <strong>LinkedIn:</strong> https://www.linkedin.com/in/angelignaciomartinez/ <br>
+  <a href="https://github.com/AngelMartinezDevops" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/angelignaciomartinez/" target="_blank">LinkedIn</a> •
+  <a href="mailto:tu-email@example.com">Email</a>
 </p>
 
 ---
 
-## 📜 Acerca de mí
-Desarrollador apasionado con experiencia en [añadir tus áreas de especialización, como desarrollo web, aplicaciones móviles, etc.]. Me gusta resolver problemas complejos, aprender nuevas tecnologías y colaborar en proyectos interesantes.
+## 🌐 Sobre Mí
+Soy un profesional DevOps con experiencia en infraestructura como código, monitoreo y herramientas de integración continua. Mi enfoque está en optimizar procesos y automatizar tareas para mejorar la eficiencia y escalabilidad de los sistemas.
 
-## 🛠️ Habilidades
+---
 
-### Lenguajes de Programación
-- **JavaScript**
-- **Python**
-- **C++**
-- **HTML & CSS**
+## 🛠️ Tecnologías y Herramientas
 
-### Frameworks y Librerías
-- **React**
-- **Node.js**
-- **Django**
-- **Bootstrap**
+<div>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
 
-### Herramientas
-- **Git & GitHub**
-- **Docker**
-- **VS Code**
-- **JIRA**
+---
 
-## 📈 Experiencia Laboral
+## 🚀 Proyectos Destacados
 
-### [Nombre de la Empresa] - [Puesto]
-_Desde MM/AAAA hasta MM/AAAA_
+### [📌 Implementación de Pipelines CI/CD con Jenkins](#)
+Automatización de pipelines de CI/CD para la implementación de aplicaciones en entornos de desarrollo y producción, usando Jenkins, Git y contenedores Docker para garantizar un flujo de trabajo robusto.
 
-- **Descripción**: [Breve descripción de la empresa o proyecto]
-- **Logros**:
-  - Diseñé y desarrollé [descripción de un logro importante].
-  - Implementé mejoras en [descripción de mejoras específicas].
-  - Colaboré en equipos de trabajo multidisciplinarios.
+- **Tecnologías**: Jenkins, Docker, Git
+- **Repositorio**: [Ver en GitHub](#)
 
-### [Otra Empresa] - [Puesto]
-_Desde MM/AAAA hasta MM/AAAA_
+### [📌 Monitoreo con Grafana y Prometheus](#)
+Configuración de una plataforma de monitoreo completa para visualizar métricas en tiempo real de aplicaciones críticas, implementando Grafana y Prometheus para alertas y dashboards personalizados.
 
-- **Descripción**: [Breve descripción de la empresa o proyecto]
-- **Logros**:
-  - Encabezé el desarrollo de [descripción del logro].
-  - Optimicé procesos mediante [tecnología o metodología utilizada].
+- **Tecnologías**: Grafana, Prometheus
+- **Repositorio**: [Ver en GitHub](#)
+
+---
+
+## 📊 Experiencia Profesional
+
+### DevOps Junior - [Nombre de Empresa]
+_Marzo 2023 - Presente_
+
+- Implementación de infraestructuras como código con **Terraform** en entornos de **Azure**.
+- Gestión y automatización de procesos de despliegue utilizando **Jenkins** y **Ansible**.
+- Configuración de alertas y monitoreo de sistemas en producción con **Grafana** y **Prometheus**.
+
+---
 
 ## 🎓 Educación
 
-- **[Nombre del Título o Carrera]** - [Institución]
-  - _Desde MM/AAAA hasta MM/AAAA_
+- **Ingeniería en Informática** - [Nombre de la Universidad]
+  - _Graduación: MM/AAAA_
 
-- **[Otro Título o Certificación]** - [Institución]
-  - _Desde MM/AAAA hasta MM/AAAA_
-
-## 📂 Proyectos Destacados
-
-### [Nombre del Proyecto 1]
-Descripción breve del proyecto. Explica las tecnologías usadas, el propósito y, si puedes, enlaza al repositorio o a una demo.
-
-- **Repositorio**: [enlace-al-repositorio](#)
-- **Tecnologías**: [Tecnología 1, Tecnología 2, Tecnología 3]
-
-### [Nombre del Proyecto 2]
-Descripción breve del proyecto.
-
-- **Repositorio**: [enlace-al-repositorio](#)
-- **Tecnologías**: [Tecnología 1, Tecnología 2, Tecnología 3]
-
-## 🏆 Logros y Reconocimientos
-
-- **[Premio o Reconocimiento]** - _Otorgado por [Nombre de la organización]_ - MM/AAAA
-- **[Otro Logro]** - Breve descripción del logro, premio o certificación.
+---
 
 ## 📫 Contacto
 
-Si estás interesado en colaborar o necesitas más información, no dudes en contactarme:
+Si deseas colaborar o tienes alguna pregunta, no dudes en contactarme:
 
-- **Correo electrónico**: [tu-email@example.com]
-- **LinkedIn**: [enlace-a-tu-perfil](#)
-- **GitHub**: [enlace-a-tu-perfil](#)
+- **Email**: [angel@example.com](mailto:angel@example.com)
+- **LinkedIn**: [Ángel Ignacio Martínez Martínez](https://www.linkedin.com/in/angelignaciomartinez/)
+- **GitHub**: [AngelMartinezDevops](https://github.com/AngelMartinezDevops)
+
+---
+
+<p align="center">🚀 ¡Juntos, hacia un futuro más automatizado! 🚀</p>
