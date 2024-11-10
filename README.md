@@ -1,7 +1,10 @@
 <h1 align="center">👨‍💻 Ángel Ignacio Martínez Martínez</h1>
 <p align="center">
-  <strong>DevOps | Linux | Cloud</strong>
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/AngelMartinezDevops" target="_blank">GitHub</a> •
