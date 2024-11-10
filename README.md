@@ -8,27 +8,28 @@
 
 <div align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
   <a href="https://github.com/AngelMartinezDevops" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #333; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-      <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub" style="margin-right: 8px;"/> GitHub
+    <button style="background-color: #333; border: none; border-radius: 8px; margin: 5px; cursor: pointer; padding: 10px; display: inline-flex; justify-content: center; align-items: center;">
+      <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub"/>
     </button>
   </a>
   
   <span style="color: #ccc; font-size: 24px; margin: 0 10px;">|</span>
 
   <a href="https://www.linkedin.com/in/angelignaciomartinez/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0077b5; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-      <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" style="margin-right: 8px;"/> LinkedIn
+    <button style="background-color: #0077b5; border: none; border-radius: 8px; margin: 5px; cursor: pointer; padding: 10px; display: inline-flex; justify-content: center; align-items: center;">
+      <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn"/>
     </button>
   </a>
 
   <span style="color: #ccc; font-size: 24px; margin: 0 10px;">|</span>
 
   <a href="mailto:angel200391@gmail.com" style="text-decoration: none;">
-    <button style="background-color: #555; color: white; padding: 10px 20px; border: none; border-radius: 8px; margin: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-      <img src="https://img.icons8.com/ios-filled/24/ffffff/filled-message.png" alt="Email" style="margin-right: 8px;"/> Email
+    <button style="background-color: #555; border: none; border-radius: 8px; margin: 5px; cursor: pointer; padding: 10px; display: inline-flex; justify-content: center; align-items: center;">
+      <img src="https://img.icons8.com/ios-filled/24/ffffff/filled-message.png" alt="Email"/>
     </button>
   </a>
 </div>
+
 
 
 ---
